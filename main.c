@@ -34,3 +34,5 @@ int multi(int a, int b){
 float divi(int a, int b){
     return (float) a/b;
 }
+//Coded by hoangnvd00536
+
